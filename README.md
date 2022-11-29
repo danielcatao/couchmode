@@ -2,7 +2,7 @@
 An Firefox Extension to autoplay videos from a channel on vimeo.
 
 HOW TO INSTALL: 
-https://www.youtube.com/watch?v=cer9EUKegG4
+https://www.youtube.com/watch?v=P0ugObgYohY
 (Instead of borderify.js it's manifest.json)
 
 Obs: 
